@@ -3,6 +3,12 @@ body {
   text-align: center;
 }
 
+p {
+  color: gray;
+  font-family: Verdana;
+  font-size: 21px;
+}
+
 .white {
   color: white;
 }
